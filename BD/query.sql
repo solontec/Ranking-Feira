@@ -23,9 +23,9 @@ INSERT INTO votos (nome, voto) VALUES
 
 -- Projeto C
 ('Projeto C', 5),
-('Projeto C', 5),
-('Projeto C', 5),
 ('Projeto C', 4),
+('Projeto C', 5),
+('Projeto C', 3),
 
 -- Projeto D
 ('Projeto D', 1),
